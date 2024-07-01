@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">I am a third year student at Mepco Schlenk Engineering College,Sivakasi</h3>
+<h3 align="center">I am a CSE graduate from Mepco Schlenk Engineering College,Sivakasi</h3>
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 <p align="center">
@@ -17,17 +17,16 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
 
 - 💬 Ask me about **Laravel,React,Angular**
 
-- 📫 How to reach me **aakashggsah@gmail.com**
+- 📫 How to reach me **aakashganesan03@gmail.com**
 
 - 📄 Know about my experiences [drive.google.com](drive.google.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aakashg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashg" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/aakashg](https://www.linkedin.com/in/g-aakash)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
