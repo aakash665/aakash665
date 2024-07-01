@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **aakashganesan03@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com](drive.google.com)
+- 📄 My Resume [Resume]([drive.google.com](https://drive.google.com/file/d/1945ehwVvxGiICvxYmTo4UFFwtyL--jp_/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
