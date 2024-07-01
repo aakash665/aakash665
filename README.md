@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Laravel,React,Angular**
 
-- 📫 How to reach me **aakashganesan03@gmail.com**
+- 📫 Reach me at **aakashganesan03@gmail.com**
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1945ehwVvxGiICvxYmTo4UFFwtyL--jp_/view?usp=sharing)
+- 📄 My Resume is [here](https://drive.google.com/file/d/1945ehwVvxGiICvxYmTo4UFFwtyL--jp_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
