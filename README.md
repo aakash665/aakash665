@@ -32,7 +32,7 @@
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/g-aakash) 💼
+- **LinkedIn**: [My Profile](https://www.linkedin.com/in/g-aakash) 💼
 - **Website**: [Check it out!](https://aakash-g.vercel.app/) 🌐
 
 Drop me a line if you want to collaborate, chat about tech, or discuss why pineapple doesn’t belong on pizza 🍍🍕. 
