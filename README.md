@@ -1,4 +1,4 @@
-<h1># 👨‍💻 Who Am I?</h1>
+<h1> 👨‍💻 Who Am I?</h1>
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">I am a tech enthusiast who’s always on a quest for the next big thing in tech. I like to think of myself as a digital wizard 🧙‍♂️, conjuring up solutions from the magical world of programming.</h3>
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
