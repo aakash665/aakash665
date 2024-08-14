@@ -1,4 +1,4 @@
-<h1> 👨‍💻 Who Am I?</h1>
+<h1> 👨‍💻 About Me</h1>
 <h1 align="center">Hi 👋, I'm Aakash</h1>
 <h3 align="center">I am a tech enthusiast who’s always on a quest for the next big thing in tech. I like to think of myself as a digital wizard 🧙‍♂️, conjuring up solutions from the magical world of programming.</h3>
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
@@ -8,7 +8,7 @@
 </p>
 
 
-## 🚀 My Superpowers
+## 🚀 My Skills
 
 - **Languages**: Fluent in Python, Java, and JavaScript (and a bit of alien languages too 🛸)
 - **Frameworks**: React, Angular, Node, Express (basically, the Avengers of web frameworks)
