@@ -11,7 +11,7 @@
 ## 🚀 My Skills
 
 - **Languages**: Fluent in Python, Java, and JavaScript (and a bit of alien languages too 🛸)
-- **Frameworks**: React, Angular, Node, Express (basically, the Avengers of web frameworks)
+- **Frameworks**: React, Angular, Node, Express, Springboot
 - **Tools**: Git (my trusty sidekick), Docker (for containerizing awesomeness), VS Code (my command center)
 
 
@@ -26,14 +26,7 @@
 
 - 📫 Reach me at **aakashganesan03@gmail.com**
 
-- 📄 Get my resume [here](https://drive.google.com/file/d/1c2Dtm0viDjFP_MOq73LdIuM-zz5uQHA_/view?usp=drive_link)
 
-
-
-## 📫 How to Reach Me
-
-- **LinkedIn**: [My Profile](https://www.linkedin.com/in/g-aakash) 💼
-- **Website**: [Check it out!](https://aakash-g.vercel.app/) 🌐
 
 Drop me a line if you want to collaborate, chat about tech, or discuss why pineapple doesn’t belong on pizza 🍍🍕. 
 
