@@ -3,7 +3,7 @@
 <h3 align="center">I am a tech enthusiast who’s always on a quest for the next big thing in tech. I like to think of myself as a digital wizard 🧙‍♂️, conjuring up solutions from the magical world of programming.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DS%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DS%20|%20Algorithms%20|%20OOP%20;&center=true&width=500&height=50"></a>
 </p>
 
 
